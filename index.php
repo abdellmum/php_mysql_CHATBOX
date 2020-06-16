@@ -9,7 +9,7 @@ $result = mysqli_query($conn, $sql);
 <html>
 	<head>
   		<meta charset="utf-8" />
-  		<title>CHATBOX</title>
+  		<title>CHAT BOX</title>
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 	</head>
 	<body>
